@@ -10,8 +10,8 @@ body, html{
     font-family: "Raleway","Oswald", sans-serif;
     font-weight: 700;
     line-height: 2em;
-    color: #666;
-    /* color:#fff; */
+    /* color: #666; */
+    color:#fff;
 }
 
 .img1,.img2,.img3,.img4{
@@ -59,7 +59,7 @@ div.border{
     text-align: center;
     padding: 1em;
     margin: 0 10em 0 10em;
-}
+} */
 
 section{
     background-color: #fecc53;
@@ -67,18 +67,18 @@ section{
     padding:.5em;
 }
 
-a{
+/* a{
     text-decoration: none;
     background-color: rgba(0, 0, 0, 0.829);
     color:white;
     padding:.7em;
     border-radius: 3em;
-}
+} */
 
 .section-text{
     text-align: center;
 }
-*/
+
 .sponsor h3{
     margin-top: 1em;
     color:#000;
