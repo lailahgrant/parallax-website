@@ -43,7 +43,7 @@ body, html{
     min-height:60%;
 }
 
-/* .text{
+.text{
     text-align: center;
     position:relative;
     top: 10em;
@@ -59,7 +59,7 @@ div.border{
     text-align: center;
     padding: 1em;
     margin: 0 10em 0 10em;
-} */
+}
 
 section{
     background-color: #fecc53;
