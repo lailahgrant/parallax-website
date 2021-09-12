@@ -94,7 +94,7 @@ a{
 
 
 /* === MEDIA QUERIES */
-@media (max-width:367px) {
+@media (max-width:567px) and (min-width:300px) {
     .img1,.img2,.img3,.img4{
         max-width: 100%;
         background-attachment: scroll;
