@@ -94,7 +94,7 @@ a{
 
 
 /* === MEDIA QUERIES */
-@media (max-width:567px) {
+@media (max-width:367px) {
     .img1,.img2,.img3,.img4{
         max-width: 100%;
         background-attachment: scroll;
@@ -104,7 +104,13 @@ a{
         margin:0;
     }
 
+    .sponsor-images img{
+        text-align: center;
+    }
+
 }
+
+
 
 
 
