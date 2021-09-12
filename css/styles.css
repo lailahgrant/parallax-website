@@ -64,7 +64,7 @@ div.border{
 section{
     background-color: #fecc53;
     color: rgba(0, 0, 0, 0.685);
-    padding:.5em;
+    padding: 1em;
 }
 
 a{
@@ -94,7 +94,7 @@ a{
 
 
 /* === MEDIA QUERIES */
-/* @media (max-width:567px) {
+@media (max-width:567px) {
     .img1,.img2,.img3,.img4{
         max-width: 100%;
         background-attachment: scroll;
@@ -104,7 +104,7 @@ a{
         margin:0;
     }
 
-} */
+}
 
 
 
